@@ -1,0 +1,15 @@
+### OS Files
+.DS_Store
+###
+
+### Folders
+Build/
+Library/
+Temp/
+###
+
+### Other
+*.csproj
+*.pidb
+*.sln
+###
